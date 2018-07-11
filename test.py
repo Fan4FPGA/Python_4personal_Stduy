@@ -1,4 +1,3 @@
-
 #import sys
 #print('================Python import mode==========================');
 #print ('命令行参数为:')
@@ -1474,7 +1473,7 @@ while a > 0:
 #都可以搭配while 和 for循环
 
 
-#循环与else
+循环与else
 '''
 for <> in <> :
     <>
